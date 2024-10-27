@@ -13,6 +13,8 @@
 
 [**DBM - announces dangerous events**](https://www.curseforge.com/wow/addons/deadly-boss-mods-dbm-dungeons)
 
+[**Weakaruas - custom configure your alerts/warnings**](https://www.curseforge.com/wow/addons/weakauras-2)
+
 ## Auction & Economy
 [**Auctionator - must have AH tool**](https://www.curseforge.com/wow/addons/auctionator)
 
